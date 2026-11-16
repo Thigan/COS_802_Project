@@ -22,7 +22,7 @@ COS802_Project/
 ├── requirements.txt
 │
 ├── notebooks/
-│   ├── 01_data_and_detection.ipynb        RQ1 and RQ2
+│   ├── 01_data_and_detection.ipynb        RQ1, RQ2
 │   ├── 02_paraphrase_generation.ipynb     RQ3
 │   └── 03_augmentation_experiment.ipynb   RQ4
 │
