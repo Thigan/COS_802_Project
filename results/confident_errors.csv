@@ -1,0 +1,21 @@
+model,dataset,sentence1,sentence2,label,prob
+TF-IDF + LogReg,PAWS test,"Amethi , Musafirkhana and Gauriganj tehsils are now located in the Amethi district .","The Gauriganj , Musafirkhana , and Amethi tehsils are now in Amethi district .",1,0.05
+TF-IDF + LogReg,PAWS test,"The Amethi , Musafirkhana , and Gauriganj tehsils are now in Amethi district .","Amethi , Musafirkhana and Gauriganj tehsils are now located in the Amethi district .",1,0.05
+TF-IDF + LogReg,PAWS test,"Arkalochori is a town and a former municipality in the Crete regional unit , Heraklion , Greece .","Arkalochori is a city and a former municipality in the regional unit of Crete , Heraklion , Greece .",1,0.07
+TF-IDF + LogReg,PAWS test,Calapan is from the provincial capital of Puerto Galera .,"Calapan is from Puerto Galera , the provincial capital .",1,0.07
+TF-IDF + LogReg,PAWS test,"He was graduated in 1872 from Cumberland University and the Legal Department of Mansfield College , Lebanon , Tennessee .","He was graduated from Cumberland University , and from the law department of Mansfield College , Lebanon , Tennessee , in 1872 .",1,0.08
+DistilBERT,PAWS test,"NDSU ( North Dakota State University ) , which has over 14,500 students , is home to Fargo .","Fargo is home to NDSU ( North Dakota State University ) , which has over 14,500 students .",1,0.05
+DistilBERT,PAWS test,"The most important use of phosphorous acid ( phosphonic acid ) is the production of basic lead phosphite , which is a stabilizer in PVC and related chlorinated polymers .","The most important use of phosphoric acid ( phosphoric acid ) is the production of basic lead phosphite , which is a stabilizer in PVC and related chlorinated polymers .",1,0.06
+DistilBERT,PAWS test,"The most important use of phosphorous acid ( basic lead acid ) is the production of phosphonic phosphite , which is a stabilizer in PVC and related chlorinated polymers .","The most important use of phosphoric acid ( basic lead acid ) is the production of phosphorous phosphite , which is a stabiliser in PVC and related chlorinated polymers .",1,0.06
+DistilBERT,PAWS test,There are two main types of muscular fiber orientations that are responsible for movement : the longitudinal orientations and the circular orientations .,There are two main types of muscle fibers orientations that are responsible for the movement : the longitudinal orientations and circular orientations .,1,0.06
+DistilBERT,PAWS test,There are two main types of muscular fiber orientations that are responsible for movement : the longitudinal orientations and the circular orientations .,There are two main types of muscle fibers orientations that are responsible for the movement : the circular orientations and longitudinal orientations .,1,0.06
+TF-IDF + LogReg,QQP test,Why does my dog take her food away from the bowl and eat?,Why do dogs take their food outside of their bowl when they are eating?,1,0.01
+TF-IDF + LogReg,QQP test,Is Khan Academy a better online resource than MIT OCW? Why or why not?,Is it better to learn calculus from Khan academy or MIT OCW for a physics student?,1,0.01
+TF-IDF + LogReg,QQP test,Is depression curable? Why or why not?,Is dimentia curable?,1,0.02
+TF-IDF + LogReg,QQP test,How long does meth say in your urine?,How long does meth stay detectable in the body through testing?,1,0.02
+TF-IDF + LogReg,QQP test,Why should a country have two currencies?,Should there be two currencies at once in a country instead of one? Or not?,1,0.02
+DistilBERT,QQP test,In what medium does light (photon) travel?,"""If light is a wave, what is the medium that is """"waving""""?""",1,0.02
+DistilBERT,QQP test,Is Khan Academy a better online resource than MIT OCW? Why or why not?,Is it better to learn calculus from Khan academy or MIT OCW for a physics student?,1,0.02
+DistilBERT,QQP test,Can hamsters eat apples?,"Can hamsters eat raisins? If so, how harmful are they for them in any way?",1,0.03
+DistilBERT,QQP test,Is depression curable? Why or why not?,Is dimentia curable?,1,0.03
+DistilBERT,QQP test,Should black people wear sunblock?,Do black people need to put on sunscreen lotions during summer?,1,0.03

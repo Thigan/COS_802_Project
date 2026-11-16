@@ -1,0 +1,361 @@
+method,source,paraphrase,bertscore_f1,cosine,diversity
+Rule-based (WordNet),"I am a btech 3rd year student with 3 backs(cleared)and aggregate of 62.5%,am I eligible for placements,will I withstand filtering with such less %?","I am a btech 3rd twelvemonth pupil with 3 backs(cleared)and sum of 62.5%,am I eligible for placements,will I withstand filtering with such less %?",0.9728535,0.9278755,0.2222222222222222
+Rule-based (WordNet),How do I know if someone is a sociopath or an introvert?,How do I cognize if person is a psychopath or an introvert?,0.96519154,0.8454203,0.4
+Rule-based (WordNet),What do you think about decision by the Indian Government to demonetise 500 and 1000 rupees note?,What do you believe about determination by the Amerind Government to demonetise 500 and 1000 rupees note?,0.96486104,0.8806192,0.3
+Rule-based (WordNet),How do I know if an Android device is running on ARMv7 or ARMv6?,How do I cognize if an Android device is running on ARMv7 or ARMv6?,0.97486395,0.9570662,0.13333333333333333
+Rule-based (WordNet),How do I improve presence of mind?,How do I better front of head?,0.91375893,0.42863643,0.6
+Rule-based (WordNet),How do you remove the odor of urine from a mattress?,How do you take the smell of piss from a mattress?,0.9760539,0.88028836,0.42857142857142855
+Rule-based (WordNet),How can I increase my intelligence as much as possible?,How can I increase my intelligence as much as potential?,0.9507526,0.9507177,0.2
+Rule-based (WordNet),Why do I hate authority so much?,Why do I hate authorization so much?,0.96885073,0.54404813,0.25
+Rule-based (WordNet),What are some strange unheard facts about mosquitoes and house flies?,What are some unusual unheard facts about mosquitoes and firm flies?,0.95417035,0.9432885,0.3076923076923077
+Rule-based (WordNet),What is the meaning of eccedentesiast?,What is the significance of eccedentesiast?,0.98787963,0.92927796,0.2857142857142857
+Rule-based (WordNet),"Are there Reggio Emilia preschools in Philadelphia? If so, what are the good ones?","Are there Reggio Emilia preschools in Philadelphia? If so, what are the full ones?",0.9846886,0.97753906,0.14285714285714285
+Rule-based (WordNet),Why can't I add my friend back on Snapchat after I unblocked her?,Why can't I add my ally backward on Snapchat after I unblocked her?,0.9626273,0.8642775,0.26666666666666666
+Rule-based (WordNet),What are some good B.Tech research projects for electrical engineering students?,What are some full B.Tech inquiry projects for electric engineering students?,0.9598161,0.8857857,0.4
+Rule-based (WordNet),Have you all checked out AlleyWatch?,Hold you all checked out AlleyWatch?,0.9547163,0.7985844,0.2857142857142857
+Rule-based (WordNet),"If watch movements such as ETA and miyota are so cheap, why are some watches priced so high?","If watch movements such as ETA and miyota are so inexpensive, why are some watches priced so high?",0.9975294,0.9921183,0.11764705882352941
+Rule-based (WordNet),What is the net worth of Sir Evelyn De Rothschild?,What is the net worth of Sir Evelyn De Rothschild?,1.0000001,1.0,0.0
+Rule-based (WordNet),Are you satisfied with your accomplishments in life?,Are you satisfied with your accomplishments in living?,0.9753643,0.9340701,0.2222222222222222
+Rule-based (WordNet),Is Redmi note 3 a good buy?,Is Redmi line 3 a full buy?,0.9517098,0.6053308,0.4444444444444444
+Rule-based (WordNet),How much space does OS X Mavericks take up?,How much infinite does OS X Mavericks occupy up?,0.9415343,0.81021816,0.36363636363636365
+Rule-based (WordNet),How can I maximize my daily eCPM?,How can I maximise my day-to-day eCPM?,0.96549106,0.95492494,0.5
+Rule-based (WordNet),What is one of the stupidest things you've ever heard someone say?,What is one of the stupidest things you've always heard person say?,0.97609085,0.97264135,0.26666666666666666
+Rule-based (WordNet),Can a housewife get the same freedom and respect as much as a working woman gets (from her in-laws)?,Can a homemaker get the same exemption and regard as much as a working woman gets (from her in-laws)?,0.94556665,0.7323292,0.2857142857142857
+Rule-based (WordNet),How can I know if she likes me or not?,How can I cognize if she likes me or not?,0.975226,0.8481258,0.18181818181818182
+Rule-based (WordNet),What are the best things to study/major in college in order to best be able to change the world/make a difference later on in life?,What are the best things to analyze/major in college in order to outdo be capable to change the world/make a difference later on in life?,0.96143717,0.9171545,0.20833333333333334
+Rule-based (WordNet),C coding in MATLAB plz help?,C coding in MATLAB plz aid?,0.96556485,0.940554,0.2857142857142857
+Rule-based (WordNet),What is the best decision you made in your life?,What is the best determination you made in your living?,0.9407469,0.62145,0.3333333333333333
+Rule-based (WordNet),How bad can a lower back pain and sore breasts get?,How bad can a lower dorsum hurting and sore breasts get?,0.96288866,0.8567333,0.3076923076923077
+Rule-based (WordNet),Where can I buy best quality commercial fridge in Sydney?,Where can I buy best caliber commercial fridge in Sydney?,0.98345613,0.9325241,0.18181818181818182
+Rule-based (WordNet),Do you think it's important to keep the male-only succession for the Japanese Imperial Throne?,Do you believe it's significant to maintain the male-only succession for the Japanese Imperial Throne?,0.9856632,0.9550742,0.3157894736842105
+Rule-based (WordNet),Can you mix hair dye with your conditioner?,Can you mix hair dye with your conditioner?,0.9999999,1.0,0.0
+Rule-based (WordNet),Is it wise to use a credit card?,Is it wise to use a recognition card?,0.95641935,0.61585236,0.2222222222222222
+Rule-based (WordNet),I am a 3rd-year software engineering student. What are the best books for clearing an aptitude test?,I am a 3rd-twelvemonth package technology student. What are the best books for clearing an aptitude test?,0.9536403,0.8973767,0.2857142857142857
+Rule-based (WordNet),What are some lesser known TV shows/sitcoms which are really good?,What are some lesser known TV shows/sitcoms which are truly full?,0.9709973,0.8431996,0.3076923076923077
+Rule-based (WordNet),How do you feel about people who like to talk to themselves?,How do you experience about people who like to speak to themselves?,0.9666922,0.8586417,0.3076923076923077
+Rule-based (WordNet),Should I put osha certificate in my mechanical resume?,Should I put osha certification in my mechanical sketch?,0.9421183,0.7829827,0.36363636363636365
+Rule-based (WordNet),Can I have an elective orchiectomy (castration)?,Can I have an elected orchidectomy (emasculation)?,0.9402938,0.6139612,0.6
+Rule-based (WordNet),"""Who was V in Alan Moore's """"V for Vendetta""""?""","""Who was V in Alan Moore's """"V for Vendetta""""?""",0.99999976,1.0,0.0
+Rule-based (WordNet),Which is best veg food Restaurant in Karkardooma?,Which is best veg nutrient Restaurant in Karkardooma?,0.97773874,0.93407226,0.2222222222222222
+Rule-based (WordNet),Who would win in a fight between Ben Affleck's Batman versus Vandal Savage (CW Arrow)?,Who would win in a battle between Ben Affleck's Batman versus Vandal Savage (CW Arrow)?,0.9922628,0.99087495,0.11764705882352941
+Rule-based (WordNet),Do you know about the greatest adornments designed by the fashion designers to beautify women's natural beauty?,Do you cognize about the greatest adornments designed by the manner designers to fancify women's natural beauty?,0.9586481,0.89988136,0.3
+Rule-based (WordNet),What are the demographics of Quora users?,What are the demographics of Quora users?,0.99999976,1.0000001,0.0
+Rule-based (WordNet),Do we have any plain Minecraft war servers?,Do we hold any field Minecraft war servers?,0.95005953,0.82555073,0.4
+Rule-based (WordNet),My mother keeps calling me ugly. What should I do?,My mother keeps calling me ugly. What should I do?,1.0,1.0,0.0
+Rule-based (WordNet),What is the most inspirational CAT Entrance Success story you ever heard?,What is the most inspirational CAT Entrance Success narrative you always hear?,0.9664457,0.9447198,0.4
+Rule-based (WordNet),Who is the best Batman actor in your opinion?,Who is the best Batman histrion in your sentiment?,0.91114163,0.86974883,0.36363636363636365
+Rule-based (WordNet),Legal Documents: Is our birth certificate really a traded bond?,Legal Documents: Is our birth certification truly a traded bond?,0.9828453,0.95173925,0.3333333333333333
+Rule-based (WordNet),Is it easier to push or pull?,Is it easier to force or draw?,0.96649337,0.6027734,0.4444444444444444
+Rule-based (WordNet),What would Tyrion do if Jon became king?,What would Tyrion do if Jon became king?,0.99999976,1.0,0.0
+Rule-based (WordNet),What are the 5 authentic resources of software engineering (with brief descriptions)?,What are the 5 reliable resources of package technology (with brief descriptions)?,0.9658774,0.5863664,0.4
+Rule-based (WordNet),Which is the best running shoes around 2000INR?,Which is the best run shoes around 2000INR?,0.99220943,0.98979104,0.2222222222222222
+Rule-based (WordNet),How can I convert JSON format string into a real object in JS?,How can I convert JSON format twine into a existent aim in JS?,0.9312501,0.6828613,0.375
+Rule-based (WordNet),Why did the Colombians reject the peace accord with FARC?,Why did the Colombians reject the peace agreement with FARC?,0.9955176,0.95888907,0.2
+Rule-based (WordNet),What are the best morning habits?,What are the best morn habits?,0.9750281,0.6021285,0.2857142857142857
+Rule-based (WordNet),What is second law of thermodynamics?,What is 2nd law of thermodynamics?,0.9915167,0.9909303,0.2857142857142857
+Rule-based (WordNet),What are the best laxatives to lose weight?,What are the best laxatives to lose weight?,0.9999999,1.0,0.0
+Rule-based (WordNet),Why should we eat organic food?,Why should we eat organic nutrient?,0.967464,0.9015304,0.2857142857142857
+Rule-based (WordNet),Should I upgrade to iOS 9.3?,Should I upgrade to iOS 9.3?,0.9999998,1.0,0.0
+Rule-based (WordNet),How can I close my passport application?,How can I shut my pass application?,0.9593367,0.55558306,0.4444444444444444
+Rule-based (WordNet),How can I be a cold hearted person?,How can I be a cold hearted individual?,0.99120736,0.9838021,0.2222222222222222
+Rule-based (WordNet),"""Criminal Justice: When people get sentenced to """"hard labor"""" these days, what does the labor consist of?""","""Criminal Justice: When people get sentenced to """"difficult labour"""" these days, what does the labour consist of?""",0.9873699,0.89843655,0.2222222222222222
+Rule-based (WordNet),What are some quick ways to control your anger?,What are some speedy ways to command your choler?,0.93819743,0.32656276,0.5
+Rule-based (WordNet),Is it true visiting multiple countries enhance chances applying for US visit visa?,Is it true visiting multiple countries enhance chances applying for US visit visa?,1.0000001,1.0000001,0.0
+Rule-based (WordNet),How can I help a sick baby get some sleep?,How can I assist a ill babe get some sleep?,0.96750987,0.8027048,0.46153846153846156
+Rule-based (WordNet),"If you could re-live your 20's, what would you do?","If you could re-populate your 20's, what would you do?",0.9728269,0.88350624,0.16666666666666666
+Rule-based (WordNet),How do I differentiate WBC cells while performing DLC?,How do I distinguish WBC cells while performing DLC?,0.9886948,0.95260525,0.2
+Rule-based (WordNet),Is depression curable? Why or why not?,Is slump curable? Why or why not?,0.973076,0.5383036,0.2857142857142857
+Rule-based (WordNet),Why is religion bad for humanity?,Why is faith bad for humanness?,0.970669,0.69386256,0.5
+Rule-based (WordNet),Why don't we eat turkey eggs?,Why don't we eat turkey eggs?,1.0000002,1.0,0.0
+Rule-based (WordNet),"What is the difference between Solid wood, Sheesham wood and Teak wood?","What is the deviation between Solid forest, Sheesham forest and Teak wood?",0.94546074,0.78080976,0.25
+Rule-based (WordNet),How can Apple products get a virus?,How can Apple products get a virus?,1.0,1.0,0.0
+Rule-based (WordNet),What's the most important thing you did in 2016?,What's the most significant thing you did in 2016?,0.99224937,0.9523361,0.18181818181818182
+Rule-based (WordNet),"If NH4Cl dissolves in water, what is the final equation?","If NH4Cl dissolves in H2O, what is the concluding equality?",0.9445173,0.7802397,0.46153846153846156
+Rule-based (WordNet),How do you deal with OCD obsessive compulsive disorder?,How do you cover with OCD obsessional compulsive upset?,0.92684036,0.8481014,0.5
+Rule-based (WordNet),How do you install CyanogenMod on an Android which is not supported by it?,How do you instal CyanogenMod on an Android which is not supported by it?,0.99233574,0.96376956,0.13333333333333333
+Rule-based (WordNet),Why is Ivanka Trump always part of Trump's campaign and Tiffany isn't?,Why is Ivanka Trump ever portion of Trump's run and Tiffany isn't?,0.9559164,0.92332137,0.375
+Rule-based (WordNet),How do I invest in a indexed fund in India?,How do I put in a indexed store in India?,0.9166261,0.71821105,0.36363636363636365
+Rule-based (WordNet),Why is my Quora feed always showing the same questions?,Why is my Quora provender ever showing the same questions?,0.9504473,0.636026,0.3333333333333333
+Rule-based (WordNet),Are there any good things about donald trump?,Are there any full things about donald trump?,0.9529528,0.88221276,0.2222222222222222
+Rule-based (WordNet),What are some good foods to bring for long distance bus travel?,What are some full foods to convey for long distance bus traveling?,0.9517501,0.9081589,0.4
+Rule-based (WordNet),What are the top 5 best torrent sites for eBooks?,What are the top 5 best downpour sites for eBooks?,0.9689411,0.7184675,0.18181818181818182
+Rule-based (WordNet),How do I solve the problem in the picture?,How do I lick the job in the image?,0.9387669,0.24980742,0.5454545454545454
+Rule-based (WordNet),What is role of travel consolidators in a travel booking system?,What is function of traveling consolidators in a traveling booking system?,0.96574134,0.94951725,0.3333333333333333
+Rule-based (WordNet),Were US Marines tougher than elite German troops in WW2?,Were US Marines tougher than elect German troops in WW2?,0.9643767,0.9320308,0.18181818181818182
+Rule-based (WordNet),What is the best phone under 10k in India?,What is the best telephone under 10k in India?,0.9818057,0.9217583,0.2
+Rule-based (WordNet),What is the unit digit of 7^7^7?,What is the unit figure of 7^7^7?,0.9810924,0.87652826,0.25
+Rule-based (WordNet),What news organization does Siena Luchansky work for?,What intelligence organisation does Siena Luchansky work for?,0.97698367,0.85672534,0.4
+Rule-based (WordNet),"I'm pretty good at math, but I'm absolutely trash at coding and find no interest in it, is there a fix to this?","I'm reasonably full at mathematics, but I'm absolutely trash at coding and find no interest in it, is there a fix to this?",0.98341703,0.9700623,0.24
+Rule-based (WordNet),"Currently, all Supreme Court Justices come from very elite law schools, is it similar for the best lawyers in private practice?","Presently, all Supreme Court Justices come from really elect law schools, is it similar for the best lawyers in private practice?",0.9785012,0.9528645,0.25
+Rule-based (WordNet),What is the most amazing photograph you have ever taken?,What is the most astonishing photo you have always taken?,0.97510785,0.911183,0.46153846153846156
+Rule-based (WordNet),What would happen if 1 km big cube of gold suddenly appeared in Russia?,What would hap if 1 km big block of amber suddenly appeared in Russia?,0.95356476,0.6702237,0.35294117647058826
+Rule-based (WordNet),"Who are the best personal financial advisors in Spokane, WA for people saving for retirement? What were your experiences with them?","Who are the best personal fiscal advisors in Spokane, WA for people saving for retirement? What were your experiences with them?",0.9930626,0.9433794,0.09523809523809523
+Rule-based (WordNet),Is there a free app to see who has blocked you on Instagram?,Is there a free app to see who has blocked you on Instagram?,1.0000002,1.0000001,0.0
+Rule-based (WordNet),WHY HAVE I ALWAYS FELT LIKE MY COLOR IS MY CONTENT?,WHY HAVE I ALWAYS FELT LIKE MY COLOR IS MY CONTENT?,0.99999994,1.0,0.0
+Rule-based (WordNet),How could I improve my English pronunciation?,How could I better my English orthoepy?,0.9236609,0.753867,0.4444444444444444
+Rule-based (WordNet),What are your views on Modi governments decision to demonetize 500 and 1000 rupee notes? How will this affect economy?,What are your views on Modi governments determination to demonetise 500 and 1000 rupee notes? How will this impact economy?,0.99213547,0.972342,0.2608695652173913
+Rule-based (WordNet),How would limiting deductions affect expatriates?,How would restrict deductions impact expatriates?,0.97716117,0.9531119,0.5
+Rule-based (WordNet),What is best way for earning money?,What is best way for earning money?,0.9999998,1.0,0.0
+Rule-based (WordNet),Does Google Maps account for change in speed when estimating trip time?,Does Google Maps history for alteration in velocity when estimating trip time?,0.9452591,0.86239916,0.4
+Rule-based (WordNet),What is it in IIT that Indians are so proud of talking about on the Internet that Harvard or Stanford or MIT guys aren't?,What is it in IIT that Indians are so gallant of talking about on the Internet that Harvard or Stanford or MIT guys aren't?,0.9779303,0.93706405,0.08333333333333333
+Rule-based (WordNet),Which cream is best for removing dark spots in the face?,Which pick is best for removing dark spots in the expression?,0.9466311,0.6733619,0.3076923076923077
+Rule-based (WordNet),What's the difference between node js and Ajax?,What's the deviation between node js and Ajax?,0.95976967,0.8801178,0.2
+Rule-based (WordNet),What is surface Gibbs free energy?,What is surface Gibbs free vigor?,0.94282836,0.7858715,0.2857142857142857
+Rule-based (WordNet),What are some alternatives to Shopify?,What are some alternatives to Shopify?,1.0000001,1.0,0.0
+Rule-based (WordNet),Which online platform provides the best Twitter management tools?,Which online program provides the best Chirrup direction tools?,0.93182695,0.43286115,0.5
+Rule-based (WordNet),What are the best water pumps for home use?,What are the best H2O pumps for place use?,0.9530081,0.806805,0.36363636363636365
+Rule-based (WordNet),What are the nicest place to live in Glasgow?,What are the nice spot to populate in Glasgow?,0.9436863,0.82237226,0.5
+Rule-based (WordNet),What is it like to work on software-defined networking?,What is it like to work on package-defined networking?,0.97733295,0.8479549,0.18181818181818182
+Rule-based (WordNet),Why do I urinate after a meal?,Why do I urinate after a repast?,0.97849023,0.7518312,0.25
+Rule-based (WordNet),How competitive is the hiring process at United Rentals?,How competitory is the hiring procedure at United Rentals?,0.96303415,0.92151093,0.36363636363636365
+Rule-based (WordNet),What are the famous tourism places in Pakistan?,What are the celebrated touristry places in Pakistan?,0.9543924,0.92938524,0.4
+Rule-based (WordNet),Why is water consumption so important for the body/mind and how much should we ideally be drinking per day?,Why is H2O ingestion so significant for the body/mind and how much should we ideally be drinking per day?,0.9770315,0.70398885,0.2608695652173913
+Rule-based (WordNet),What can I do after get degree of mechanical engineering?,What can I do after get grade of mechanical technology?,0.94432807,0.78288984,0.3333333333333333
+Rule-based (WordNet),How do I lose the most amount of weight possible in a one month period?,How do I lose the most sum of weight potential in a one month period?,0.95909625,0.90317976,0.23529411764705882
+Rule-based (WordNet),What are the stereotypes about your country?,What are the stereotypes about your state?,0.98806167,0.785274,0.25
+Rule-based (WordNet),Has SBI written off loans of 63 defaulters?,Has SBI written off loans of 63 defaulters?,0.9999999,1.0,0.0
+Rule-based (WordNet),Are there any DIY mutual-fund builders that handle rebalancing and will make trades via RobinHood or Interactive Brokers?,Are there any DIY common-store builders that handle rebalancing and will do trades via RobinHood or Interactive Brokers?,0.9643161,0.86318433,0.2727272727272727
+Rule-based (WordNet),Who will win FIFA world cup 2018?,Who will win FIFA universe cup 2018?,0.963768,0.91701305,0.25
+Rule-based (WordNet),What are the symptoms of sleep deprivation?,What are the symptoms of sleep privation?,0.98594165,0.8243573,0.25
+Rule-based (WordNet),How do I prepare for GMAT Exam within 4 months?,How do I fix for GMAT Exam within 4 months?,0.96723914,0.89109343,0.18181818181818182
+Rule-based (WordNet),Can you smoke in an Olacab?,Can you fume in an Olacab?,0.97299623,0.7359756,0.2857142857142857
+Back-translation,"I am a btech 3rd year student with 3 backs(cleared)and aggregate of 62.5%,am I eligible for placements,will I withstand filtering with such less %?","I am a Btech 3rd year student with 3 backs (cleared) and aggregate of 62.5%,am I for internships, will I withstand the filtering with so less %?",0.9704198,0.8589995,0.2222222222222222
+Back-translation,How do I know if someone is a sociopath or an introvert?,How do I know if someone's a sociopath or an introvert?,0.99745244,0.9974513,0.15384615384615385
+Back-translation,What do you think about decision by the Indian Government to demonetise 500 and 1000 rupees note?,What do you think of the Indian government's decision to demonetize 500 and 1000 rupees?,0.9735422,0.9357331,0.35
+Back-translation,How do I know if an Android device is running on ARMv7 or ARMv6?,How do I know if an Android device is running on ARMv7 or ARMv6?,1.0,1.0,0.0
+Back-translation,How do I improve presence of mind?,How can I improve the presence of the mind?,0.97428656,0.97205424,0.3333333333333333
+Back-translation,How do you remove the odor of urine from a mattress?,How to remove the urine odor from a mattress?,0.9754269,0.9812652,0.3333333333333333
+Back-translation,How can I increase my intelligence as much as possible?,How can I increase my intelligence as much as possible?,1.0,1.0,0.0
+Back-translation,Why do I hate authority so much?,Why do I hate authority so much?,1.0,1.0,0.0
+Back-translation,What are some strange unheard facts about mosquitoes and house flies?,What are strange unheard facts about mosquitoes and house flies?,0.9868932,0.996189,0.09090909090909091
+Back-translation,What is the meaning of eccedentesiast?,What is the meaning of eccedentesiast?,0.99999994,1.0,0.0
+Back-translation,"Are there Reggio Emilia preschools in Philadelphia? If so, what are the good ones?","Are there Reggio Emilia preschools in Philadelphia? If so, what are the good ones?",0.99999994,1.0000001,0.0
+Back-translation,Why can't I add my friend back on Snapchat after I unblocked her?,Why can't I put my girlfriend back on Snapchat after I unlocked her?,0.9488349,0.7506281,0.375
+Back-translation,What are some good B.Tech research projects for electrical engineering students?,What are some good B.Tech research projects for electrical engineering students?,1.0000001,1.0,0.0
+Back-translation,Have you all checked out AlleyWatch?,Have you all checked AlleyWatch?,0.97312033,0.9672398,0.16666666666666666
+Back-translation,"If watch movements such as ETA and miyota are so cheap, why are some watches priced so high?","If movements like ETA and Miyota are so cheap, why are some watches so expensive?",0.97353274,0.9671308,0.3888888888888889
+Back-translation,What is the net worth of Sir Evelyn De Rothschild?,What is the net value of Sir Evelyn De Rothschild?,0.9818053,0.96615845,0.18181818181818182
+Back-translation,Are you satisfied with your accomplishments in life?,Are you satisfied with your achievements in life?,0.99507207,0.95225954,0.2222222222222222
+Back-translation,Is Redmi note 3 a good buy?,Is Redmi Note 3 a good buy?,0.9862286,1.0,0.0
+Back-translation,How much space does OS X Mavericks take up?,How much space does OS X Mavericks need?,0.9750622,0.95738626,0.3
+Back-translation,How can I maximize my daily eCPM?,How can I maximize my daily eCPM?,1.0,0.99999994,0.0
+Back-translation,What is one of the stupidest things you've ever heard someone say?,What's one of the stupidest things you've ever heard?,0.9814377,0.92317075,0.2857142857142857
+Back-translation,Can a housewife get the same freedom and respect as much as a working woman gets (from her in-laws)?,Can a housewife have the same freedom and respect as a working woman (from her parents-in-law)?,0.97076833,0.94530535,0.3333333333333333
+Back-translation,How can I know if she likes me or not?,How should I know if she likes me or not?,0.990161,0.9824184,0.18181818181818182
+Back-translation,What are the best things to study/major in college in order to best be able to change the world/make a difference later on in life?,What are the best things to study / major in college to be best able to change the world / make a difference later in life?,0.98185587,0.99374735,0.09523809523809523
+Back-translation,C coding in MATLAB plz help?,C-coding in MATLAB plz help?,0.97092783,0.98490816,0.0
+Back-translation,What is the best decision you made in your life?,What is the best decision you made in your life?,1.0,1.0,0.0
+Back-translation,How bad can a lower back pain and sore breasts get?,How bad can lower back pain and aching breasts become?,0.9835992,0.93888104,0.38461538461538464
+Back-translation,Where can I buy best quality commercial fridge in Sydney?,Where can I buy a high-quality commercial refrigerator in Sydney?,0.9776321,0.9709314,0.38461538461538464
+Back-translation,Do you think it's important to keep the male-only succession for the Japanese Imperial Throne?,Do you think it's important to keep the only male successor to the Japanese throne?,0.97051245,0.945055,0.23529411764705882
+Back-translation,Can you mix hair dye with your conditioner?,Can you mix hair dye with your conditioner?,0.9999999,1.0,0.0
+Back-translation,Is it wise to use a credit card?,Is it wise to use a credit card?,0.99999994,1.0,0.0
+Back-translation,I am a 3rd-year software engineering student. What are the best books for clearing an aptitude test?,I am a 3rd-year software engineering student. What are the best books for clarifying an aptitude test?,0.98836404,0.91480374,0.10526315789473684
+Back-translation,What are some lesser known TV shows/sitcoms which are really good?,What are some less known TV shows/sitcoms that are really good?,0.9920198,0.9719243,0.3076923076923077
+Back-translation,How do you feel about people who like to talk to themselves?,What do you think about people who like to talk to themselves?,0.9890946,0.9632553,0.3076923076923077
+Back-translation,Should I put osha certificate in my mechanical resume?,Should I include the Osha certificate in my mechanical resume?,0.96084344,0.9767889,0.2727272727272727
+Back-translation,Can I have an elective orchiectomy (castration)?,Can I have an elective orchiectomy?,0.96811664,0.91166943,0.14285714285714285
+Back-translation,"""Who was V in Alan Moore's """"V for Vendetta""""?""","""Who was V in Alan Moore's ""V for Vendetta""?",0.9674004,0.9800192,0.0
+Back-translation,Which is best veg food Restaurant in Karkardooma?,Which is the best vegetable restaurant in Karkardooma?,0.9658893,0.91212606,0.4
+Back-translation,Who would win in a fight between Ben Affleck's Batman versus Vandal Savage (CW Arrow)?,Who would win in a fight between Ben Affleck's Batman against Vandal Savage (CW Arrow)?,0.9899174,0.9923645,0.11764705882352941
+Back-translation,Do you know about the greatest adornments designed by the fashion designers to beautify women's natural beauty?,Do you know the greatest jewels designed by fashion designers to enhance the natural beauty of women?,0.9659866,0.81475466,0.35
+Back-translation,What are the demographics of Quora users?,What are the demographics of Quora users?,0.99999976,1.0000001,0.0
+Back-translation,Do we have any plain Minecraft war servers?,Do we have just Minecraft war servers?,0.9548799,0.96171725,0.3333333333333333
+Back-translation,My mother keeps calling me ugly. What should I do?,My mother always calls me ugly.,0.95098925,0.8673252,0.6666666666666666
+Back-translation,What is the most inspirational CAT Entrance Success story you ever heard?,What is the most inspiring CAT Entrance Success Story you've ever heard?,0.9859437,0.9846451,0.21428571428571427
+Back-translation,Who is the best Batman actor in your opinion?,Who do you think is the best Batman actor?,0.97333837,0.9869226,0.5
+Back-translation,Legal Documents: Is our birth certificate really a traded bond?,Legal documents: Is our birth certificate really a traded bond?,0.9964677,1.0,0.0
+Back-translation,Is it easier to push or pull?,Is it easier to push or pull?,0.9999998,1.0,0.0
+Back-translation,What would Tyrion do if Jon became king?,What would Tyrion do if Jon became king?,0.99999976,1.0,0.0
+Back-translation,What are the 5 authentic resources of software engineering (with brief descriptions)?,What are the 5 authentic resources of software engineering (with short descriptions)?,0.99386704,0.9926798,0.15384615384615385
+Back-translation,Which is the best running shoes around 2000INR?,Which are the best running shoes around 2000INR?,0.9924277,0.9987496,0.2222222222222222
+Back-translation,How can I convert JSON format string into a real object in JS?,How can I convert JSON Format String into a real object in JS?,0.9908298,1.0,0.0
+Back-translation,Why did the Colombians reject the peace accord with FARC?,Why did the Colombians reject the peace agreement with the FARC?,0.99298507,0.95940757,0.2
+Back-translation,What are the best morning habits?,What are the best morning habits?,0.9999999,1.0,0.0
+Back-translation,What is second law of thermodynamics?,What is the second law of thermodynamics?,0.9880866,0.99129903,0.14285714285714285
+Back-translation,What are the best laxatives to lose weight?,What are the best laxatives to lose weight?,0.9999999,1.0,0.0
+Back-translation,Why should we eat organic food?,Why should we eat organic food?,1.0,1.0,0.0
+Back-translation,Should I upgrade to iOS 9.3?,Should I upgrade to iOS 9.3?,0.9999998,1.0,0.0
+Back-translation,How can I close my passport application?,How can I close my passport application?,1.0000002,1.0,0.0
+Back-translation,How can I be a cold hearted person?,How can I be a cold-hearted person?,0.98617905,0.9828402,0.0
+Back-translation,"""Criminal Justice: When people get sentenced to """"hard labor"""" these days, what does the labor consist of?""","""Criminal Justice: If people are condemned to ""hard work"" these days, what is the work of?""",0.92925197,0.75067866,0.5238095238095238
+Back-translation,What are some quick ways to control your anger?,What are some quick ways to control your anger?,1.0,1.0,0.0
+Back-translation,Is it true visiting multiple countries enhance chances applying for US visit visa?,Is it true that the visit of several countries increases the chances of applying for a U.S. visit visa?,0.95862937,0.92999554,0.5714285714285714
+Back-translation,How can I help a sick baby get some sleep?,How can I help a sick baby get some sleep?,1.0,1.0,0.0
+Back-translation,"If you could re-live your 20's, what would you do?","If you could relive your 20s, what would you do?",0.9876866,0.8306966,0.46153846153846156
+Back-translation,How do I differentiate WBC cells while performing DLC?,How do I differentiate WBC cells when performing DLC?,0.9937968,0.9974189,0.2
+Back-translation,Is depression curable? Why or why not?,Is depression curable? Why or why not?,1.0,1.0,0.0
+Back-translation,Why is religion bad for humanity?,Why is religion bad for mankind?,0.9927634,0.97693324,0.2857142857142857
+Back-translation,Why don't we eat turkey eggs?,Why don't we eat turkey eggs?,1.0,1.0,0.0
+Back-translation,"What is the difference between Solid wood, Sheesham wood and Teak wood?","What is the difference between solid wood, sheesham wood and teak wood?",0.981037,1.0000001,0.0
+Back-translation,How can Apple products get a virus?,How can Apple products get a virus?,1.0,1.0000001,0.0
+Back-translation,What's the most important thing you did in 2016?,What is the most important thing you did in 2016?,0.99473697,0.9943038,0.18181818181818182
+Back-translation,"If NH4Cl dissolves in water, what is the final equation?","If NH4Cl dissolves in the water, what is the final equation?",0.9929113,0.99792355,0.0
+Back-translation,How do you deal with OCD obsessive compulsive disorder?,How do you deal with OCD compulsive interference?,0.9518327,0.8374731,0.3
+Back-translation,How do you install CyanogenMod on an Android which is not supported by it?,How do you install CyanogenMod on an Android that is not supported by it?,0.9942432,0.9975151,0.13333333333333333
+Back-translation,Why is Ivanka Trump always part of Trump's campaign and Tiffany isn't?,Why isn't Ivanka Trump always part of Trump's campaign and Tiffany?,0.94617826,0.98685396,0.07692307692307693
+Back-translation,How do I invest in a indexed fund in India?,How can I invest in an index fund in India?,0.9732082,0.9641125,0.5
+Back-translation,Why is my Quora feed always showing the same questions?,Why does my Quora feed always show the same questions?,0.995751,0.9940301,0.3333333333333333
+Back-translation,Are there any good things about donald trump?,Is there anything good about Donald Trumpf?,0.92428714,0.9147606,0.6363636363636364
+Back-translation,What are some good foods to bring for long distance bus travel?,What are some good food for long-distance bus trips to bring?,0.9736247,0.96913844,0.2857142857142857
+Back-translation,What are the top 5 best torrent sites for eBooks?,What are the best 5 best torrent sites for eBooks?,0.9933111,0.98838437,0.1
+Back-translation,How do I solve the problem in the picture?,How can I solve the problem in the picture?,0.9914499,0.9934935,0.2222222222222222
+Back-translation,What is role of travel consolidators in a travel booking system?,What role do travel consolidators play in a travel booking system?,0.97611636,0.99046856,0.3333333333333333
+Back-translation,Were US Marines tougher than elite German troops in WW2?,Were the US Marines tougher in World War II than the German elite troops?,0.966131,0.97720754,0.35714285714285715
+Back-translation,What is the best phone under 10k in India?,What's the best phone under 10k in India?,0.9956901,0.9969593,0.2
+Back-translation,What is the unit digit of 7^7^7?,What is the unit number of 7^7^7?,0.98485625,0.95234984,0.25
+Back-translation,What news organization does Siena Luchansky work for?,Which news organization does Siena Luchansky work for?,0.9965856,0.9916502,0.2222222222222222
+Back-translation,"I'm pretty good at math, but I'm absolutely trash at coding and find no interest in it, is there a fix to this?","I'm pretty good at math, but I'm absolutely bad at coding and don't find any interest in it, is there a solution for that?",0.96759593,0.86668074,0.41379310344827586
+Back-translation,"Currently, all Supreme Court Justices come from very elite law schools, is it similar for the best lawyers in private practice?","Currently all judges of the Supreme Court come from very elite law schools, is it similar for the best lawyers in private practice?",0.98753476,0.95518947,0.13043478260869565
+Back-translation,What is the most amazing photograph you have ever taken?,What's the most amazing picture you've ever taken?,0.98710084,0.9621497,0.46153846153846156
+Back-translation,What would happen if 1 km big cube of gold suddenly appeared in Russia?,What would happen if 1 km of gold cube suddenly appeared in Russia?,0.9802592,0.98460776,0.07142857142857142
+Back-translation,"Who are the best personal financial advisors in Spokane, WA for people saving for retirement? What were your experiences with them?","Who are the best personal financial advisors in Spokane, WA for people who save on retirement? What were your experiences with them?",0.9927005,0.9948972,0.13636363636363635
+Back-translation,Is there a free app to see who has blocked you on Instagram?,Is there a free app to see who blocked you on Instagram?,0.9940749,0.9923533,0.07692307692307693
+Back-translation,WHY HAVE I ALWAYS FELT LIKE MY COLOR IS MY CONTENT?,Why have I always felt like my color is my account?,0.9296653,0.84207207,0.18181818181818182
+Back-translation,How could I improve my English pronunciation?,How could I improve my English pronunciation?,1.0000001,1.0,0.0
+Back-translation,What are your views on Modi governments decision to demonetize 500 and 1000 rupee notes? How will this affect economy?,What are your views on modes government decision to demonetize 500 and 1000 rupee notes? How will this affect the economy?,0.98245096,0.9555743,0.21739130434782608
+Back-translation,How would limiting deductions affect expatriates?,How would the limitation of the deductions affect expatriates?,0.9792475,0.96670306,0.4444444444444444
+Back-translation,What is best way for earning money?,What is the best way to make money?,0.9670981,0.9029802,0.5
+Back-translation,Does Google Maps account for change in speed when estimating trip time?,Does Google Maps account for changing the speed when estimating travel time?,0.98130757,0.9652517,0.4
+Back-translation,What is it in IIT that Indians are so proud of talking about on the Internet that Harvard or Stanford or MIT guys aren't?,What is it in the IIT that Indians are so proud to talk on the Internet about Harvard or Stanford or MIT boys not being?,0.94608897,0.96758324,0.35714285714285715
+Back-translation,Which cream is best for removing dark spots in the face?,Which cream is best for removing dark spots on the face?,0.99787855,0.99871945,0.16666666666666666
+Back-translation,What's the difference between node js and Ajax?,What is the difference between nodes js and Ajax?,0.97578275,0.9297616,0.36363636363636365
+Back-translation,What is surface Gibbs free energy?,What is Surface Gibbs Free Energy?,0.93582445,1.0,0.0
+Back-translation,What are some alternatives to Shopify?,What are some alternatives to Shopify?,1.0,1.0,0.0
+Back-translation,Which online platform provides the best Twitter management tools?,Which online platform offers the best Twitter management tools?,0.9956993,0.99710226,0.2
+Back-translation,What are the best water pumps for home use?,What are the best water pumps for home use?,0.9999999,1.0000001,0.0
+Back-translation,What are the nicest place to live in Glasgow?,What is the most beautiful place in Glasgow?,0.94728875,0.86995095,0.5833333333333334
+Back-translation,What is it like to work on software-defined networking?,What is it like to work on software-defined networks?,0.99200237,0.9557954,0.18181818181818182
+Back-translation,Why do I urinate after a meal?,Why do I urinate after a meal?,1.0,1.0,0.0
+Back-translation,How competitive is the hiring process at United Rentals?,How competitive is the recruitment process at United Rentals?,0.9965005,0.93405855,0.2
+Back-translation,What are the famous tourism places in Pakistan?,What are the famous tourist destinations in Pakistan?,0.9812137,0.9715576,0.4
+Back-translation,Why is water consumption so important for the body/mind and how much should we ideally be drinking per day?,Why is water consumption so important for the body/mind and how much should we ideally drink per day?,0.99558914,0.99543583,0.14285714285714285
+Back-translation,What can I do after get degree of mechanical engineering?,What can I do after engineering?,0.96034384,0.7735135,0.4
+Back-translation,How do I lose the most amount of weight possible in a one month period?,How can I lose most weights in a month?,0.94390124,0.7880615,0.5882352941176471
+Back-translation,What are the stereotypes about your country?,What are the stereotypes about your country?,0.99999994,1.0000001,0.0
+Back-translation,Has SBI written off loans of 63 defaulters?,Has SBI depreciated loans from 63 debtors?,0.94467545,0.82501507,0.6363636363636364
+Back-translation,Are there any DIY mutual-fund builders that handle rebalancing and will make trades via RobinHood or Interactive Brokers?,Are there any DIY builders who handle rebalancing and trade through RobinHood or Interactive Brokers?,0.9519805,0.88997793,0.45454545454545453
+Back-translation,Who will win FIFA world cup 2018?,Who wins the FIFA World Cup 2018?,0.9745389,0.94480157,0.4444444444444444
+Back-translation,What are the symptoms of sleep deprivation?,What are the symptoms of sleep deprivation?,1.0,1.0,0.0
+Back-translation,How do I prepare for GMAT Exam within 4 months?,How do I prepare for the GMAT exam within 4 months?,0.991641,0.995432,0.09090909090909091
+Back-translation,Can you smoke in an Olacab?,Can you smoke in an olacab?,0.9873372,1.0000001,0.0
+T5,"I am a btech 3rd year student with 3 backs(cleared)and aggregate of 62.5%,am I eligible for placements,will I withstand filtering with such less %?","With 3 cleared backs and an aggregate of 62.5%, am I eligible for placements as a 3rd year btech student?",0.9205936,0.82036066,0.2692307692307692
+T5,How do I know if someone is a sociopath or an introvert?,What are the signs that someone is a sociopath versus an introvert?,0.9521474,0.9333998,0.6666666666666666
+T5,What do you think about decision by the Indian Government to demonetise 500 and 1000 rupees note?,How do you feel about the Indian Government's move to demonetize 500 and 1000 rupee notes?,0.9794135,0.90380657,0.5833333333333334
+T5,How do I know if an Android device is running on ARMv7 or ARMv6?,Is there a way to determine if an Android device is running on ARMv6 or not?,0.9516009,0.9406445,0.55
+T5,How do I improve presence of mind?,What are some ways to enhance my mental alertness?,0.9211061,0.60087025,1.0
+T5,How do you remove the odor of urine from a mattress?,What are some ways to eliminate the smell of urine from a mattress?,0.96453935,0.917563,0.6666666666666666
+T5,How can I increase my intelligence as much as possible?,What are some ways to enhance my intelligence to the fullest?,0.9203963,0.9220294,0.8823529411764706
+T5,Why do I hate authority so much?,What is the reason behind my intense dislike for those in positions of power?,0.91285855,0.56832105,1.0
+T5,What are some strange unheard facts about mosquitoes and house flies?,Do you know any unusual and unheard-of details about mosquitoes and house flies?,0.9405259,0.94196737,0.6666666666666666
+T5,What is the meaning of eccedentesiast?,"What does the term ""eccedentesiast"" mean?",0.943331,0.95803714,0.6666666666666666
+T5,"Are there Reggio Emilia preschools in Philadelphia? If so, what are the good ones?","Are there any Reggio Emilia-inspired preschools in Philadelphia? If there are, which ones are highly regarded?",0.96200776,0.96386814,0.5
+T5,Why can't I add my friend back on Snapchat after I unblocked her?,Why am I unable to re-add my friend on Snapchat after unblocking her?,0.96876276,0.96389866,0.5
+T5,What are some good B.Tech research projects for electrical engineering students?,What are some suitable research projects for B.Tech students in the field of electrical engineering?,0.9740528,0.965999,0.35294117647058826
+T5,Have you all checked out AlleyWatch?,Have you all explored AlleyWatch before?,0.9436798,0.7617288,0.5
+T5,"If watch movements such as ETA and miyota are so cheap, why are some watches priced so high?","Despite the low cost of watch movements like ETA and Miyota, why are some watches priced so high?",0.9630727,0.9829345,0.45454545454545453
+T5,What is the net worth of Sir Evelyn De Rothschild?,What is the estimated value of Sir Evelyn De Rothschild's assets?,0.97034395,0.920714,0.42857142857142855
+T5,Are you satisfied with your accomplishments in life?,Do you feel fulfilled with your life thus far?,0.9430848,0.6759782,0.6923076923076923
+T5,Is Redmi note 3 a good buy?,Is the Redmi note 3 worth buying?,0.96829534,0.9356617,0.6
+T5,How much space does OS X Mavericks take up?,What is the storage usage of OS X Mavericks?,0.94508654,0.82804286,0.8
+T5,How can I maximize my daily eCPM?,How can I optimize my daily eCPM?,0.9926691,0.94492537,0.25
+T5,What is one of the stupidest things you've ever heard someone say?,Have you ever heard someone say something so ridiculous that it made you question their intelligence?,0.90010166,0.5259979,0.782608695652174
+T5,Can a housewife get the same freedom and respect as much as a working woman gets (from her in-laws)?,Do housewives have the same level of freedom and respect as working women have for their in-laws?,0.9537473,0.8957366,0.6538461538461539
+T5,How can I know if she likes me or not?,Is there a way to determine if she has feelings for me?,0.92975414,0.72842944,0.8421052631578947
+T5,What are the best things to study/major in college in order to best be able to change the world/make a difference later on in life?,What majors can I pursue in college that have the potential to change the world or have a positive impact in the future?,0.91862077,0.81695974,0.75
+T5,C coding in MATLAB plz help?,Can someone lend a hand with C programming in MATLAB?,0.8843706,0.85441756,0.7692307692307693
+T5,What is the best decision you made in your life?,What decision do you think has had the most positive impact on your life?,0.94122857,0.78876776,0.6666666666666666
+T5,How bad can a lower back pain and sore breasts get?,How severe can a lower back pain and sore breasts become?,0.9896331,0.955394,0.3076923076923077
+T5,Where can I buy best quality commercial fridge in Sydney?,"In Sydney, where can I purchase the highest quality commercial fridges?",0.9633449,0.9726897,0.5
+T5,Do you think it's important to keep the male-only succession for the Japanese Imperial Throne?,Should the Japanese Imperial Throne be limited to males as the only male-only heirs?,0.9331929,0.878704,0.6818181818181818
+T5,Can you mix hair dye with your conditioner?,Is it permissible to use hair dye and conditioner in tandem?,0.9456471,0.7754414,0.8125
+T5,Is it wise to use a credit card?,Is it advisable to utilize a credit card?,0.9823026,0.91357285,0.4
+T5,I am a 3rd-year software engineering student. What are the best books for clearing an aptitude test?,Can you suggest some books for a third-year software engineering student who wants to excel in an aptitude test?,0.9380906,0.8544668,0.6428571428571429
+T5,What are some lesser known TV shows/sitcoms which are really good?,Can you recommend any underrated TV shows or sitcoms that are worth checking out?,0.9172824,0.78807867,0.8095238095238095
+T5,How do you feel about people who like to talk to themselves?,How do you perceive individuals who have a preference for conversing with themselves?,0.9459675,0.7125869,0.7368421052631579
+T5,Should I put osha certificate in my mechanical resume?,Would it be beneficial to include my OSHA certificate in my mechanical resume?,0.9186751,0.95846045,0.6
+T5,Can I have an elective orchiectomy (castration)?,Can I opt for an elective orchiectomy (castration)?,0.98255664,0.95508707,0.3333333333333333
+T5,"""Who was V in Alan Moore's """"V for Vendetta""""?""","Alan Moore's ""V for Vendetta"" features a mysterious character named V. Who was this character?",0.92356867,0.91007566,0.4666666666666667
+T5,Which is best veg food Restaurant in Karkardooma?,Where can I find the best vegetarian food in Karkardooma?,0.93695146,0.7784195,0.7142857142857143
+T5,Who would win in a fight between Ben Affleck's Batman versus Vandal Savage (CW Arrow)?,"If Ben Affleck's Batman and Vandal Savage from CW Arrow were to engage in a fight, who do you think would come out on top?",0.94102764,0.88486403,0.5517241379310345
+T5,Do you know about the greatest adornments designed by the fashion designers to beautify women's natural beauty?,Have you been informed about the most remarkable accessories created by fashion designers to enhance women's natural beauty?,0.9540356,0.76543176,0.56
+T5,What are the demographics of Quora users?,Can you provide information on the Quora user base demographics?,0.9353633,0.8632555,0.7857142857142857
+T5,Do we have any plain Minecraft war servers?,Are there any Minecraft servers that focus on war gameplay?,0.9269023,0.8639791,0.7142857142857143
+T5,My mother keeps calling me ugly. What should I do?,How can I deal with my mother's persistent negative comments about me being unappealing?,0.92566735,0.5725571,0.8095238095238095
+T5,What is the most inspirational CAT Entrance Success story you ever heard?,Can you share the most motivational CAT Entrance Success story you've come across?,0.94619155,0.9148363,0.6111111111111112
+T5,Who is the best Batman actor in your opinion?,Which actor do you believe portrayed Batman the best?,0.9527949,0.93259865,0.7142857142857143
+T5,Legal Documents: Is our birth certificate really a traded bond?,Is it accurate to say that our birth certificate is a bond that is traded in the legal market?,0.9137339,0.94181025,0.5555555555555556
+T5,Is it easier to push or pull?,"Which is more manageable, pushing or pulling?",0.9319743,0.8804749,0.8333333333333334
+T5,What would Tyrion do if Jon became king?,"If Jon became king, what actions would Tyrion take?",0.97457457,0.93298876,0.3
+T5,What are the 5 authentic resources of software engineering (with brief descriptions)?,Can you provide a list of 5 bona fide books on software engineering along with brief descriptions?,0.91432285,0.84589684,0.6818181818181818
+T5,Which is the best running shoes around 2000INR?,What are the best running shoes that fall within the 2000INR price range?,0.9469128,0.93527806,0.6666666666666666
+T5,How can I convert JSON format string into a real object in JS?,What is the process of transforming a JSON format string into an actual object in JavaScript?,0.9499026,0.8444712,0.6818181818181818
+T5,Why did the Colombians reject the peace accord with FARC?,What caused the Colombians to turn down the peace agreement with FARC?,0.97630423,0.8948418,0.6666666666666666
+T5,What are the best morning habits?,What are some recommended morning rituals?,0.95204675,0.7881782,0.6666666666666666
+T5,What is second law of thermodynamics?,What is the definition of the second law of thermodynamics?,0.9710075,0.9290627,0.25
+T5,What are the best laxatives to lose weight?,Which laxatives are most effective for weight loss?,0.9555089,0.9448471,0.7692307692307693
+T5,Why should we eat organic food?,What are the benefits of consuming organic food?,0.93820786,0.8438497,0.8333333333333334
+T5,Should I upgrade to iOS 9.3?,Is it worth updating to iOS 9.3?,0.96641415,0.9254427,0.6363636363636364
+T5,How can I close my passport application?,What steps do I need to take to finalize my passport application?,0.9307177,0.7145487,0.7142857142857143
+T5,How can I be a cold hearted person?,How can I develop a cold and unfeeling demeanor?,0.928263,0.58922625,0.5833333333333334
+T5,"""Criminal Justice: When people get sentenced to """"hard labor"""" these days, what does the labor consist of?""","What is the definition of ""hard labor"" in the context of contemporary criminal law?",0.9000201,0.78964007,0.7272727272727273
+T5,What are some quick ways to control your anger?,How can you control your anger in the shortest amount of time?,0.9187033,0.9240042,0.8333333333333334
+T5,Is it true visiting multiple countries enhance chances applying for US visit visa?,Does traveling to various countries offer an advantage when applying for a US visit visa?,0.94815814,0.8569698,0.7272727272727273
+T5,How can I help a sick baby get some sleep?,What can I do to assist a sick baby in getting some rest?,0.96289915,0.88056695,0.6470588235294118
+T5,"If you could re-live your 20's, what would you do?",How would you spend your time if you could relive your 20s?,0.95311016,0.75139165,0.6875
+T5,How do I differentiate WBC cells while performing DLC?,What is the process for distinguishing WBC cells during DLC?,0.942847,0.8689077,0.8125
+T5,Is depression curable? Why or why not?,Can depression be treated effectively? What are the reasons for or against it?,0.91315156,0.80981404,0.8823529411764706
+T5,Why is religion bad for humanity?,In what ways does religion negatively impact humanity?,0.9398629,0.8019209,0.8333333333333334
+T5,Why don't we eat turkey eggs?,What is the reason for avoiding turkey eggs in our diet?,0.9314775,0.86408967,0.875
+T5,"What is the difference between Solid wood, Sheesham wood and Teak wood?","How do Solid wood, Sheesham wood and Teak wood differ from each other?",0.96328855,0.97398347,0.6875
+T5,How can Apple products get a virus?,What are the ways in which Apple products can be infected with a virus?,0.932716,0.88352156,0.6875
+T5,What's the most important thing you did in 2016?,What was the most significant accomplishment you achieved in 2016?,0.96285903,0.8124001,0.5714285714285714
+T5,"If NH4Cl dissolves in water, what is the final equation?",What is the equation that represents the solubility of NH4Cl in water?,0.93391734,0.87601674,0.5
+T5,How do you deal with OCD obsessive compulsive disorder?,What strategies do you use to handle OCD?,0.9354357,0.88173246,0.7857142857142857
+T5,How do you install CyanogenMod on an Android which is not supported by it?,Is it possible to install CyanogenMod on an Android device that is not supported?,0.9574944,0.8609449,0.5
+T5,Why is Ivanka Trump always part of Trump's campaign and Tiffany isn't?,Why does Trump always include Ivanka in his campaign while Tiffany is always left out?,0.9543526,0.93088484,0.65
+T5,How do I invest in a indexed fund in India?,Can you guide me on how to invest in an indexed fund in India?,0.93426824,0.96967095,0.625
+T5,Why is my Quora feed always showing the same questions?,Why do I keep seeing the same questions on my Quora feed?,0.9667832,0.9331065,0.5333333333333333
+T5,Are there any good things about donald trump?,Are there any merits to Donald Trump's presidency?,0.91372216,0.714434,0.5833333333333334
+T5,What are some good foods to bring for long distance bus travel?,What are some recommended foods to pack for a long bus journey?,0.96812373,0.90878284,0.5
+T5,What are the top 5 best torrent sites for eBooks?,Can you provide a list of the top 5 torrent sites for downloading eBooks?,0.94998,0.9361613,0.5882352941176471
+T5,How do I solve the problem in the picture?,What is the solution to the problem illustrated in the picture?,0.94422,0.8026575,0.6923076923076923
+T5,What is role of travel consolidators in a travel booking system?,What is the function of travel consolidators in a travel booking system?,0.9805814,0.97490704,0.25
+T5,Were US Marines tougher than elite German troops in WW2?,Did the US Marines exhibit greater strength than the elite German soldiers in World War II?,0.95817393,0.8913486,0.6842105263157895
+T5,What is the best phone under 10k in India?,Which phone offers the best value for money under 10k in India?,0.9540001,0.9228373,0.5
+T5,What is the unit digit of 7^7^7?,Determine the unit digit of 7 to the power of seven.,0.89719516,0.8456913,0.5454545454545454
+T5,What news organization does Siena Luchansky work for?,What news outlet does Siena Luchansky work for?,0.9922907,0.97217244,0.2222222222222222
+T5,"I'm pretty good at math, but I'm absolutely trash at coding and find no interest in it, is there a fix to this?","My math skills are decent, but I'm terrible at coding and don't find enjoyment in it, is there a way to improve?",0.941933,0.7655003,0.5625
+T5,"Currently, all Supreme Court Justices come from very elite law schools, is it similar for the best lawyers in private practice?",Are the elite law schools that produce Supreme Court Justices comparable to those where top lawyers practice in private law?,0.9194475,0.9457554,0.6206896551724138
+T5,What is the most amazing photograph you have ever taken?,What is the most remarkable image you have ever snapped?,0.98154557,0.82947814,0.46153846153846156
+T5,What would happen if 1 km big cube of gold suddenly appeared in Russia?,"If a massive cube of gold, measuring 1 km in dimensions, were to materialize in Russia, what would be the outcome?",0.927914,0.8944614,0.5833333333333334
+T5,"Who are the best personal financial advisors in Spokane, WA for people saving for retirement? What were your experiences with them?","Who are the most reputable personal financial advisors in Spokane, WA that cater to individuals saving for retirement? Could you share your encounters with them?",0.95651877,0.94700736,0.5
+T5,Is there a free app to see who has blocked you on Instagram?,Is there a free app that allows you to see who has blocked you on Instagram?,0.98403066,0.9922901,0.13333333333333333
+T5,WHY HAVE I ALWAYS FELT LIKE MY COLOR IS MY CONTENT?,What is the reason behind my feeling that my skin color is my identity?,0.8918197,0.71587044,0.8333333333333334
+T5,How could I improve my English pronunciation?,What steps can I take to better my English pronunciation?,0.96140474,0.9361982,0.6923076923076923
+T5,What are your views on Modi governments decision to demonetize 500 and 1000 rupee notes? How will this affect economy?,"How do you perceive the Modi government's decision to demonetize 500 and 1000 rupee notes, and how will it impact the economy?",0.9650108,0.96694684,0.5714285714285714
+T5,How would limiting deductions affect expatriates?,In what ways would expatriates be impacted by the restriction of deductions?,0.95011586,0.9364061,0.8
+T5,What is best way for earning money?,What is the most effective method to earn money?,0.96243143,0.89490134,0.7692307692307693
+T5,Does Google Maps account for change in speed when estimating trip time?,Does Google Maps take into account variations in speed when estimating travel time?,0.96728384,0.9382354,0.4375
+T5,What is it in IIT that Indians are so proud of talking about on the Internet that Harvard or Stanford or MIT guys aren't?,"What distinguishes Indians from Harvard, Stanford, or MIT students in terms of their level of pride in discussing topics on the Internet?",0.8937713,0.8345077,0.65625
+T5,Which cream is best for removing dark spots in the face?,What cream is suitable for removing dark spots on the face?,0.9784187,0.9810283,0.42857142857142855
+T5,What's the difference between node js and Ajax?,In what ways are node js and Ajax distinct from one another?,0.930533,0.8572051,0.6875
+T5,What is surface Gibbs free energy?,What is the definition of surface Gibbs free energy?,0.97516525,0.96125674,0.3333333333333333
+T5,What are some alternatives to Shopify?,Can you suggest some substitutes for Shopify?,0.941371,0.9379009,0.8181818181818182
+T5,Which online platform provides the best Twitter management tools?,What is the top-rated website for managing Twitter?,0.93182343,0.79253954,0.875
+T5,What are the best water pumps for home use?,Which water pumps are ideal for domestic purposes?,0.94912577,0.88080925,0.6923076923076923
+T5,What are the nicest place to live in Glasgow?,Which areas in Glasgow are considered to be the most appealing to live in?,0.9375839,0.8541115,0.6
+T5,What is it like to work on software-defined networking?,How would you describe the experience of working on software-defined networking?,0.9551615,0.901628,0.7777777777777778
+T5,Why do I urinate after a meal?,What causes me to urinate after eating?,0.9638075,0.8978051,0.8333333333333334
+T5,How competitive is the hiring process at United Rentals?,Is the hiring process at United Rentals highly competitive?,0.97932816,0.9738725,0.2
+T5,What are the famous tourism places in Pakistan?,Which places in Pakistan are famous for tourism?,0.9534469,0.97995675,0.4
+T5,Why is water consumption so important for the body/mind and how much should we ideally be drinking per day?,"What is the significance of water intake for the body and mind, and what is a recommended daily amount?",0.933904,0.8564255,0.75
+T5,What can I do after get degree of mechanical engineering?,What are the possible career paths for someone with a mechanical engineering degree?,0.92996013,0.83287024,0.7894736842105263
+T5,How do I lose the most amount of weight possible in a one month period?,What is the quickest way to lose as much weight as possible within a month?,0.94076586,0.77275795,0.7391304347826086
+T5,What are the stereotypes about your country?,What are the preconceived notions about your homeland?,0.9644328,0.571306,0.5
+T5,Has SBI written off loans of 63 defaulters?,Was the loan of 63 individuals who default on their loans cancelled by SBI?,0.92131245,0.8958692,0.7777777777777778
+T5,Are there any DIY mutual-fund builders that handle rebalancing and will make trades via RobinHood or Interactive Brokers?,Is there a DIY mutual-fund builder that can handle rebalancing and trade through RobinHood or Interactive Brokers?,0.96802354,0.9723271,0.52
+T5,Who will win FIFA world cup 2018?,Which team is going to emerge victorious in the FIFA world cup 2018?,0.95159197,0.8665192,0.75
+T5,What are the symptoms of sleep deprivation?,What are the indications of sleep deficiency?,0.97608155,0.78474325,0.4444444444444444
+T5,How do I prepare for GMAT Exam within 4 months?,What are some ways to get ready for the GMAT Exam within a 4-month timeframe?,0.9444948,0.95304525,0.7619047619047619
+T5,Can you smoke in an Olacab?,Is smoking allowed inside an Olacab?,0.967917,0.9093269,0.8

@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+accelerate
+sentencepiece
+sacremoses
+sentence-transformers
+bert-score
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+nltk
+tqdm
