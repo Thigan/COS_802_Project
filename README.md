@@ -71,7 +71,7 @@ PAWS QQP is not included in Hugging Face. Therefore PAWS Wikipedia is used.
 ## Setup
 
 1. Install the packages with `pip install -r requirements.txt`. To use a GPU, install the matching PyTorch build from pytorch.org first.
-2. Open each notebook and change `PROJECT_DIR` from the author's folder to a folder on your own computer. The notebooks save everything in a `results` folder inside it.
+2. Open each notebook and change `PROJECT_DIR` to a folder on your own computer. The notebooks save everything in a `results` folder inside it.
 3. Run the notebooks in order: 01, then 02, then 03.
 4. The first run downloads what it needs: the models and datasets from Hugging Face, and the WordNet files for notebook 02.
 
